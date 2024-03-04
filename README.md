@@ -9,4 +9,7 @@ Emplea sobre el intervalo en el que se encuentra la raíz de la ecuación y los 
 Es un método alternativo al de la bisección, se usa para la búsqueda de raíces que trabaja dividiendo el intervalo a la mitad y seleccionando el subintervalo que tiene la raíz dibujando una linea recta desde los intervalos selecionados. 
 
 -Metodo de Newton.
-El método de Newton es un método abierto, lo que significa que no está garantizada su convergencia global
+También conocido como método de Newton-Raphson, es un algoritmo utilizado en análisis numérico para encontrar sucesivamente mejores aproximaciones a las raíces (o ceros) de una función de valor real1
+
+-Metodo de Secante.
+Es un algoritmo de búsqueda de raíces que utiliza una sucesión de raíces de líneas secantes para aproximarse mejor a la raíz de una función f. El método de la secante puede considerarse como una aproximación en diferencias finitas del método de Newton.
