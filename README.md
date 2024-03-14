@@ -16,4 +16,10 @@ También conocido como método de Newton-Raphson, es un algoritmo utilizado en a
 Es un algoritmo de búsqueda de raíces que utiliza una sucesión de raíces de líneas secantes para aproximarse mejor a la raíz de una función f. El método de la secante puede considerarse como una aproximación en diferencias finitas del método de Newton.
 
 TEMA 3.Métodos de solución de Sistemas de Ecuaciones
--Método de Gauss Jordan
+-Eliminación Gaussiana: Este método convierte un sistema de ecuaciones lineales en una matriz triangular superior mediante operaciones de fila, y luego resuelve el sistema mediante sustitución hacia atrás.
+
+-Método de Gauss-Jordan: Similar a la eliminación gaussiana, pero lleva el proceso un paso más allá para convertir la matriz en una forma escalonada reducida (lo más parecido a la matriz identidad), lo que hace que la solución sea directa.
+
+-Método de Gauss-Seidel: Este es un método iterativo que comienza con una suposición inicial y luego utiliza los valores calculados en la iteración actual y anterior para calcular la nueva suposición. El proceso se repite hasta que la diferencia entre dos iteraciones consecutivas sea menor que una tolerancia predefinida.
+
+-Método de Jacobi: Similar al método de Gauss-Seidel, pero en lugar de utilizar los valores recién calculados en la iteración actual, utiliza solo los valores de la iteración anterior para calcular la nueva suposición.
