@@ -1,0 +1,38 @@
+Resultado usando el método de Simpson: 12.657181938629206
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 8.65731617157093
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 16.65704770568747
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 3.9998657670582722
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 7.9997315341165445
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 21.314498110200137
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 17.31463234314186
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 28.602421297379536
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 25.314363877258412
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método de Simpson: 32.60228706443781
+BUILD SUCCESSFUL (total time: 0 seconds)
