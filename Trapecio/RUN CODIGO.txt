@@ -1,0 +1,38 @@
+Resultado usando el método del trapecio: 8.65333197250419
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 12.653331972504189
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 17.30666394500838
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 28.573323807529334
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 32.573323807529334
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 27.91999183502514
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 23.919991835025147
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 4.0
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 19.919991835025144
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+Resultado usando el método del trapecio: 48.06407346265446
+BUILD SUCCESSFUL (total time: 0 seconds)
